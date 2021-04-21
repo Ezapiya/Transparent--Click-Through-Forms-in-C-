@@ -1,0 +1,23 @@
+c:\users\vinit\documents\visual studio 2012\Projects\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.csprojResolveAssemblyReference.cache
+c:\users\vinit\documents\visual studio 2012\Projects\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.Form1.resources
+c:\users\vinit\documents\visual studio 2012\Projects\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.Properties.Resources.resources
+c:\users\vinit\documents\visual studio 2012\Projects\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.csproj.GenerateResource.Cache
+c:\users\vinit\documents\visual studio 2012\Projects\Black_Screen_by_Vinit_Ramteke\test_project\bin\Debug\test_project.exe.config
+c:\users\vinit\documents\visual studio 2012\Projects\Black_Screen_by_Vinit_Ramteke\test_project\bin\Debug\test_project.exe
+c:\users\vinit\documents\visual studio 2012\Projects\Black_Screen_by_Vinit_Ramteke\test_project\bin\Debug\test_project.pdb
+c:\users\vinit\documents\visual studio 2012\Projects\Black_Screen_by_Vinit_Ramteke\test_project\bin\Debug\Black_Screen_by_Vinit_Ramteke.dll
+c:\users\vinit\documents\visual studio 2012\Projects\Black_Screen_by_Vinit_Ramteke\test_project\bin\Debug\Black_Screen_by_Vinit_Ramteke.pdb
+c:\users\vinit\documents\visual studio 2012\Projects\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.exe
+c:\users\vinit\documents\visual studio 2012\Projects\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.pdb
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\bin\Debug\test_project.exe.config
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.exe
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.pdb
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\bin\Debug\test_project.exe
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\bin\Debug\test_project.pdb
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\bin\Debug\Black_Screen_by_Vinit_Ramteke.dll
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\bin\Debug\Black_Screen_by_Vinit_Ramteke.pdb
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.csprojResolveAssemblyReference.cache
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.Form1.resources
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.Properties.Resources.resources
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.csproj.GenerateResource.Cache
+F:\project_backup\Black_Screen_by_Vinit_Ramteke\test_project\obj\Debug\test_project.Form2.resources
